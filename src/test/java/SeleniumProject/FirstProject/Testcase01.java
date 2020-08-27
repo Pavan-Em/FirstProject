@@ -26,6 +26,7 @@ public class Testcase01 extends Baseclass {
 		HomePage home = new HomePage(driver);
 		home.clickOnLogIn();
 		home.clickOnLogIn();
+		home.clickOnLogIn();
 		log.info("Landed to Home Page");
 	}
 		
