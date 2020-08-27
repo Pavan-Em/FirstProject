@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="SeleniumProject.FirstProject.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test PagrTitle(failed)" parallel="tests">
+    <classes>
+      <class name="SeleniumProject.FirstProject.validateTitleTest">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="ValidateTitle"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- SeleniumProject.FirstProject.validateTitleTest -->
+    </classes>
+  </test> <!-- Test PagrTitle(failed) -->
+</suite> <!-- Failed suite [Suite] -->

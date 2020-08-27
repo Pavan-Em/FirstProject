@@ -1,0 +1,88 @@
+12:35:52.863 [TestNG-tests-2] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+12:35:52.863 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+12:36:09.787 [TestNG-tests-1] DEBUG SeleniumProject.FirstProject.validateTitleTest - Entering Url
+12:36:30.572 [TestNG-tests-2] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+12:36:31.075 [TestNG-tests-2] INFO  SeleniumProject.FirstProject.validateTitleTest - Verified PageTitle
+12:36:31.608 [TestNG-tests-2] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase2
+12:36:36.896 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+12:36:38.231 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.validateTitleTest - Invalid Input
+12:36:38.964 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.validateTitleTest - Invalid Input
+12:36:39.369 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase1
+12:38:24.579 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.Testcase01 - Initializing Driver
+12:38:24.585 [TestNG-tests-2] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+12:38:30.276 [TestNG-tests-1] DEBUG SeleniumProject.FirstProject.Testcase01 - Entering Url
+12:38:52.290 [TestNG-tests-2] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+12:38:52.679 [TestNG-tests-2] INFO  SeleniumProject.FirstProject.validateTitleTest - Verified PageTitle
+12:38:55.062 [TestNG-tests-2] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase2
+12:38:58.997 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.Testcase01 - Landed to Home Page
+12:39:00.295 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+12:39:00.965 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+12:39:01.199 [TestNG-tests-1] INFO  SeleniumProject.FirstProject.Testcase01 - Closing TestCase1
+13:09:10.749 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Initializing Driver
+13:09:15.732 [main] DEBUG SeleniumProject.FirstProject.Testcase01 - Entering Url
+13:09:23.981 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Landed to Home Page
+13:09:25.511 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+13:09:26.241 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+13:09:28.340 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Closing TestCase1
+13:09:28.343 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+13:09:47.116 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+13:09:47.193 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Verified PageTitle
+13:09:49.248 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase2
+13:10:05.511 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Initializing Driver
+13:10:06.091 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+13:13:21.823 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Initializing Driver
+13:13:27.318 [main] DEBUG SeleniumProject.FirstProject.Testcase01 - Entering Url
+13:13:54.358 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Landed to Home Page
+13:13:55.777 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+13:13:56.663 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+13:13:58.736 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Closing TestCase1
+13:13:58.738 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+13:14:25.638 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+13:14:25.807 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Verified PageTitle
+13:14:29.425 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase2
+13:42:19.443 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Initializing Driver
+13:42:51.874 [main] DEBUG SeleniumProject.FirstProject.Testcase01 - Entering Url
+13:43:06.872 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Landed to Home Page
+13:43:08.146 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+13:43:08.633 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+13:43:15.712 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Closing TestCase1
+13:43:15.715 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+13:43:42.014 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+13:43:42.333 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Verified PageTitle
+13:43:52.536 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase2
+18:12:24.079 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Initializing Driver
+18:12:35.949 [main] DEBUG SeleniumProject.FirstProject.Testcase01 - Entering Url
+18:13:29.743 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Landed to Home Page
+18:13:31.381 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+18:13:32.428 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+18:13:32.603 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Closing TestCase1
+18:13:32.605 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+18:14:51.157 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+18:14:51.405 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Verified PageTitle
+18:14:51.762 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase2
+18:16:48.188 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Initializing Driver
+18:16:52.812 [main] DEBUG SeleniumProject.FirstProject.Testcase01 - Entering Url
+18:17:05.109 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Landed to Home Page
+18:17:06.484 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+18:17:06.941 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+18:17:06.987 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Closing TestCase1
+18:17:06.990 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+18:17:18.020 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+18:17:18.082 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Verified PageTitle
+18:17:18.204 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase2
+18:18:37.706 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Initializing Driver
+18:18:43.732 [main] DEBUG SeleniumProject.FirstProject.Testcase01 - Entering Url
+18:19:15.130 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Landed to Home Page
+18:19:16.492 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+18:19:17.283 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Invalid Input
+18:19:17.546 [main] INFO  SeleniumProject.FirstProject.Testcase01 - Closing TestCase1
+18:19:17.549 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+18:19:31.840 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+18:19:31.911 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Verified PageTitle
+18:19:32.029 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase2
+19:09:25.817 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+19:09:43.414 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+19:11:59.225 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Initializing Driver
+19:12:31.476 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Landed to Home Page
+19:12:31.704 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Verified PageTitle
+19:12:32.802 [main] INFO  SeleniumProject.FirstProject.validateTitleTest - Closing TestCase2
