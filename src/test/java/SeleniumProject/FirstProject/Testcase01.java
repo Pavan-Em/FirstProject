@@ -27,6 +27,7 @@ public class Testcase01 extends Baseclass {
 		home.clickOnLogIn();
 		home.clickOnLogIn();
 		home.clickOnLogIn();
+		home.clickOnLogIn();
 		log.info("Landed to Home Page");
 	}
 		
